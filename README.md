@@ -1,2 +1,2 @@
-# aws_learning
-learning aws
+# aws_learning 
+learning aws from *A cloud guru*
